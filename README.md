@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -16,3 +17,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+=======
+
+# Bootcamp CIT - Java AI Copilot
+Repositório oficial para versionamento de códigos, exercícios e projetos desenvolvidos no Bootcamp de IA e Java da CIT.
+>>>>>>> 0182f3155b5db957aea4d973b9445148b049a2fd
